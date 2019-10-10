@@ -18,3 +18,5 @@ export const UUID = (function() {
 
 // export interface CreepMemory { [name: string]: any };
 export interface CreepMemory { working?: boolean };
+
+export interface SpawnMemory {workerCreeps?: number};
