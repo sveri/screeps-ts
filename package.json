@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "@types/screeps": "^2.5.4",
-    "typescript": "^3.6.3"
+    "typescript": "^3.6.4"
   }
 }
